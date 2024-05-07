@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProyectoSpringBootAD.iml" filepath="$PROJECT_DIR$/.idea/ProyectoSpringBootAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoSpringboot_Hoteles-/reservas.iml" filepath="$PROJECT_DIR$/ProyectoSpringboot_Hoteles-/reservas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoSpringboot_Usuarios/usuarios.iml" filepath="$PROJECT_DIR$/ProyectoSpringboot_Usuarios/usuarios.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‚Îóûÿÿÿÿ8«Û¡õ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢œ‹‚
+v	java:S116"\Rename this field "numero_habitacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»˜ãŠûÿÿÿÿ
+b
+java:S1128"ERemove this unused import 'com.example.reservas.entities.Habitacion'.(Ùã±õ8Äí¡õ1
+a
+java:S1128"?Remove this unused import 'com.example.reservas.entities.Tipo'.(·Úçëûÿÿÿÿ8Äí¡õ1
